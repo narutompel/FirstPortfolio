@@ -1,0 +1,39 @@
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #c8ffe0;
+}
+
+section {
+    padding-top: 4rem;
+}
+
+.row {
+    justify-content: center;
+}
+
+#About {
+    background-color: #a0d8b3;
+}
+
+#Project {
+    background-color:  #c8ffe0;
+}
+
+#Contact {
+    background-color:  #a0d8b3;
+}
+
+.footer {
+    text-align: center;
+    background-color: #c8ffe0;
+}
+
+.footer>p {
+    color: black;
+    font-size: large;
+}
+
+.footer>p>a {
+    color: black;
+}
